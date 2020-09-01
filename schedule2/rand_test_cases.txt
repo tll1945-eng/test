@@ -1,0 +1,11 @@
+ 0 2 3 < input/dat174
+5 7 9 < input/inp.39
+1  8  3  < input/lu39
+ 5 1 2 < input/dat469
+ 4 3 3 < input/dat078
+ 0 0 0 < input/tc.82
+0 1 0 < input/dat317
+6  3  4  < input/lu192
+3  8  3  < input/lu29
+ 5 0 4 < input/dat591
+1 10 8 < input/add.22
