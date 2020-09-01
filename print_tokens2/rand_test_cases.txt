@@ -1,0 +1,19 @@
+/home/tll1945/Work/printtokens2/inputs/uslin.1003
+< /home/tll1945/Work/printtokens2/inputs/tc157
+< /home/tll1945/Work/printtokens2/inputs/tc34
+/home/tll1945/Work/printtokens2/inputs/uslin.1069
+< /home/tll1945/Work/printtokens2/inputs/uslin.1170
+/home/tll1945/Work/printtokens2/inputs/uslin.1179
+< /home/tll1945/Work/printtokens2/inputs/tc363 
+< /home/tll1945/Work/printtokens2/inputs/uslin.1984
+< /home/tll1945/Work/printtokens2/inputs/uslin.353
+< /home/tll1945/Work/printtokens2/inputs/uslin.558
+/home/tll1945/Work/printtokens2/inputs/uslin.406
+< /home/tll1945/Work/printtokens2/inputs/tc315
+< /home/tll1945/Work/printtokens2/inputs/tc152
+< /home/tll1945/Work/printtokens2/inputs/ts587
+one doesntliketwo
+/home/tll1945/Work/printtokens2/inputs/uslin.664
+/home/tll1945/Work/printtokens2/inputs/uslin.532
+< /home/tll1945/Work/printtokens2/inputs/tst173
+< /home/tll1945/Work/printtokens2/inputs/ts652
