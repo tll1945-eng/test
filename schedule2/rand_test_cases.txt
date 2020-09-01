@@ -1,11 +1,11 @@
- 0 2 3 < input/dat174
-5 7 9 < input/inp.39
-1  8  3  < input/lu39
- 5 1 2 < input/dat469
- 4 3 3 < input/dat078
- 0 0 0 < input/tc.82
-0 1 0 < input/dat317
-6  3  4  < input/lu192
-3  8  3  < input/lu29
- 5 0 4 < input/dat591
-1 10 8 < input/add.22
+ 0 2 3 < /home/tll1945/Work/schedule2/inputs/input/dat174
+5 7 9 < /home/tll1945/Work/schedule2/inputs/input/inp.39
+1  8  3  < /home/tll1945/Work/schedule2/inputs/input/lu39
+ 5 1 2 < /home/tll1945/Work/schedule2/inputs/input/dat469
+ 4 3 3 < /home/tll1945/Work/schedule2/inputs/input/dat078
+ 0 0 0 < /home/tll1945/Work/schedule2/inputs/input/tc.82
+0 1 0 < /home/tll1945/Work/schedule2/inputs/input/dat317
+6  3  4  < /home/tll1945/Work/schedule2/inputs/input/lu192
+3  8  3  < /home/tll1945/Work/schedule2/inputs/input/lu29
+ 5 0 4 < /home/tll1945/Work/schedule2/inputs/input/dat591
+1 10 8 < /home/tll1945/Work/schedule2/inputs/input/add.22
