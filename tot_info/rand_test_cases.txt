@@ -1,7 +1,7 @@
 < tot_info/inputs/universe/jkAAQ.mat
 < tot_info/inputs/universe/jkADe.mat
 <  tot_info/inputs/universe/test116.inc
-< tot_info/inputs/universe/12new52,
+< tot_info/inputs/universe/12new52
 <  tot_info/inputs/universe/test138.inc
 <  tot_info/inputs/universe/test58.inc
 < tot_info/inputs/universe/jkAD].mat
