@@ -1,4 +1,4 @@
-1 1 1 < schedule/inputs/input/ad.1
-0 0 7 < schedule/inputs/input/add.34
-0 1 5 < schedule/inputs/input/inp.hf.14
-8 3 < schedule/inputs/input/ft.25
+1 1 1 < /schedule/inputs/input/ad.1
+0 0 7 < /schedule/inputs/input/add.34
+0 1 5 < /schedule/inputs/input/inp.hf.14
+8 3 < /schedule/inputs/input/ft.25

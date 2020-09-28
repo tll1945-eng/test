@@ -1,8 +1,8 @@
-< /home/tll1945/Work/printtokens2/inputs/newtst336.tst 
-< /home/tll1945/Work/printtokens2/inputs/tc273
-< /home/tll1945/Work/printtokens2/inputs/uslin.1873
-< /home/tll1945/Work/printtokens2/inputs/uslin.607
-< /home/tll1945/Work/printtokens2/inputs/uslin.765 
-/home/tll1945/Work/printtokens2/inputs/uslin.1864 
-/home/tll1945/Work/printtokens2/inputs/uslin.373 
-/home/tll1945/Work/printtokens2/inputs/uslin.55 
+< /printtokens2/inputs/newtst336.tst 
+< /printtokens2/inputs/tc273
+< /printtokens2/inputs/uslin.1873
+< /printtokens2/inputs/uslin.607
+< /printtokens2/inputs/uslin.765 
+/printtokens2/inputs/uslin.1864 
+/printtokens2/inputs/uslin.373 
+/printtokens2/inputs/uslin.55 

@@ -1,0 +1,12 @@
+'[^--z][9-B]%' '@n' < /replace/inputs/temp-test/21.inp.9.3
+'[^0-9][^0-9][^9-B]' '@n' < /replace/inputs/temp-test/1952.inp.829.1
+'@n' 'S&1G=SPJxh*Gd}R$vSwz{HEo.N' < /replace/inputs/input/ruin.1190
+'[^9-B]' 'NEW' < /replace/inputs/temp-test/398.inp.174.1
+'?' '`OM,I.7$B>8KwR3#e1>SqfWB3_5]@4o' < /replace/inputs/input/ruin.776
+'-?' 'NEW' < /replace/inputs/temp-test/2067.inp.876.3
+'this**' 'sub' < /replace/inputs/moni/rr1.t
+'Z' 'k' < /replace/inputs/input/ruin.1936
+'*' 'a33iv(a|>Z(Ol1~oyl9@+q /1T,&KV%PJ@}]Jo?2BuXAg' < /replace/inputs/input/ruin.1396
+'@@@@S' 'BZvBw]7~=NB4MK@b' < /replace/inputs/input/ruin.1143
+'' '!' < /replace/inputs/input/ruin.922
+'*' '#' < /replace/inputs/input/ruin.1622

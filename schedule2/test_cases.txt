@@ -1,4 +1,4 @@
-7 1 9 < /home/tll1945/Work/schedule2/inputs/input/add.58
-2 1 0 < /home/tll1945/Work/schedule2/inputs/input/zt.9
-7 4 0 < /home/tll1945/Work/schedule2/inputs/input/adt.113
-0 0 0 < /home/tll1945/Work/schedule2/inputs/input/nt.11
+7 1 9 < /schedule2/inputs/input/add.58
+2 1 0 < /schedule2/inputs/input/zt.9
+7 4 0 < /schedule2/inputs/input/adt.113
+0 0 0 < /schedule2/inputs/input/nt.11

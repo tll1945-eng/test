@@ -1,6 +1,6 @@
-< tot_info/inputs/universe/test65
-< tot_info/inputs/universe/test88
-< tot_info/inputs/universe/12new3
-< tot_info/inputs/universe/new15
-< tot_info/inputs/universe/tst115
-< tot_info/inputs/universe/test348.inc
+< /tot_info/inputs/universe/test65
+< /tot_info/inputs/universe/test88
+< /tot_info/inputs/universe/12new3
+< /tot_info/inputs/universe/new15
+< /tot_info/inputs/universe/tst115
+< /tot_info/inputs/universe/test348.inc

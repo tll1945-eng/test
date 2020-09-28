@@ -1,14 +1,14 @@
-< print_tokens/inputs/uslin.113
-< print_tokens/inputs/test380
-< print_tokens/inputs/uslin.811
-print_tokens/inputs/uslin.1450
-print_tokens/inputs/jk50
-print_tokens/inputs/uslin.1092
-< print_tokens/inputs/tc88
-< print_tokens/inputs/test351
-< print_tokens/inputs/newtst503.tst
-print_tokens/inputs/uslin.1815
-< print_tokens/inputs/tc127
-< print_tokens/inputs/test89
-print_tokens/inputs/uslin.242
-print_tokens/inputs/uslin.265
+< /print_tokens/inputs/uslin.113
+< /print_tokens/inputs/test380
+< /print_tokens/inputs/uslin.811
+/print_tokens/inputs/uslin.1450
+/print_tokens/inputs/jk50
+/print_tokens/inputs/uslin.1092
+< /print_tokens/inputs/tc88
+< /print_tokens/inputs/test351
+< /print_tokens/inputs/newtst503.tst
+/print_tokens/inputs/uslin.1815
+< /print_tokens/inputs/tc127
+< /print_tokens/inputs/test89
+/print_tokens/inputs/uslin.242
+/print_tokens/inputs/uslin.265

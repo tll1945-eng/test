@@ -1,0 +1,3 @@
+'%*' 'G' < /replace/inputs/input/ruin.1088
+'@[*-' '' < /replace/inputs/temp-test/2329.inp.988.3
+'?*$' 'i' < /replace/inputs/input/ruin.1625
