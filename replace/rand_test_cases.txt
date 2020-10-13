@@ -10,3 +10,7 @@
 '@@@@S' 'BZvBw]7~=NB4MK@b' < /replace/inputs/input/ruin.1143
 '' '!' < /replace/inputs/input/ruin.922
 '*' '#' < /replace/inputs/input/ruin.1622
+'@/' 'T@cm!x`moJfN/%|*mK7oWn#ZE%z' < /replace/inputs/input/ruin.1491
+'?' 'zs' < /replace/inputs/input/ruin.591
+'8' 'b' < /replace/inputs/input/ruin.1768
+'@@' '' < /replace/inputs/input/ruin.1854
