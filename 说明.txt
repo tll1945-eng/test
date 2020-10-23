@@ -1,0 +1,8 @@
+hash_code和health_test的随机测试用例集由作者自己产生；西门子程套件包括totinfo，tcas，printtokens，schedule，replace，printtokens2和schedule2，其中：
+totinfo的随机测试用例集使用了testplans-rand/suite182
+tcas的随机测试用例集使用了testplans-rand/suite540
+printtokens的随机测试用例集使用了testplans-rand/suite387
+schedule的随机测试用例集使用了testplans-rand/suite497
+replace的随机测试用例集使用了testplans.alt/testplans-rand/suite2 
+printtokens2的随机测试用例集使用了testplans-rand/suite348
+schedule2的随机测试用例集使用了testplans-rand/suite667
