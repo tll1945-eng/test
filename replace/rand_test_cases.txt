@@ -12,5 +12,16 @@
 '*' '#' < /replace/inputs/input/ruin.1622
 '@/' 'T@cm!x`moJfN/%|*mK7oWn#ZE%z' < /replace/inputs/input/ruin.1491
 '?' 'zs' < /replace/inputs/input/ruin.591
+'[^a-c]a-][^0-9][9-B]^' 'a@nb@tc' < /replace/inputs/temp-test/677.inp.294.3
+'*' 'r"' < /replace/inputs/input/ruin.1393
+'@l' 'PSP`1vR+aC$I8'\''9UeO_Y'\''_nJ<FtcIi}. ,av4,XPyZ7BT#(B9{S=c--i.' < /replace/inputs/input/ruin.1105
+'*' ': 4`?Kz] u"eMDvLqtSl$_5S"|{_5' < /replace/inputs/input/ruin.788
+'?[][^--z]c[^9-B][^9-B]c*?[9-B]c-' '@t' < /replace/inputs/temp-test/530.inp.230.1
 '8' 'b' < /replace/inputs/input/ruin.1768
+'@n@@$' ''\''' < /replace/inputs/input/ruin.1374
+'^-]?' '&' < /replace/inputs/temp-test/1766.inp.752.1
+'[a-[^0-9]' '' < /replace/inputs/temp-test/840.inp.361.2
 '@@' '' < /replace/inputs/input/ruin.1854
+'%*?$' 'vLd?Rz=SEH)PEv2' < /replace/inputs/input/ruin.1265
+'for this du the key thing is to have a ccl at exactly the right length more [@@]' 'sub doesnt matter' < /replace/inputs/moni/rr1.t
+'[^@t] $' 'a&' < /replace/inputs/temp-test/1185.inp.510.6
